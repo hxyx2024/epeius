@@ -1,3 +1,4 @@
+# 谢谢大佬，教程很详细  https://www.youtube.com/watch?v=0Cd8uTNJj1Q
 # epeius
 这是一个基于 CF Worker 平台的脚本，在原版的基础上修改了显示 Trojan 配置信息转换为订阅内容。使用该脚本，你可以方便地将 Trojan 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
